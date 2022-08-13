@@ -1,8 +1,8 @@
 ---
-title: Tools
+title: Breeding 
 nav:
-  order: 2
-  tooltip: Software, datasets, and more
+  order: 1
+  tooltip: Cucurbit improvement 
 ---
 
 # <i class="fas fa-tools"></i>Tools

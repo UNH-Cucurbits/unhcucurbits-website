@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: News 
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Research program updates 
 ---
 
 # <i class="fas fa-feather-alt"></i>Blog
