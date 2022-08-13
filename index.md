@@ -4,7 +4,8 @@ title: Home
 
 # Cucurbit Breeding & Genetics @ University of New Hampshire
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Welcome to the UNH Curcurbit Breeding and Genetics Program. Thank you for your interest!
+
+The cucurbit breeding program is led by Dr. Christopher Hernandez at the University of New Hampshire. The UNH program conducts breeding efforts in squash, pumpkins, ad melons. Our research program seeks to understand the genetics of important stakeholder traits such as disease resistance and nutritional quality. Towards this goal, we work on developing and validating new technologies and breeding methods. This includes research on marker-assisted selection, genomics and new methods in data analysis.
 
 {:.center}
