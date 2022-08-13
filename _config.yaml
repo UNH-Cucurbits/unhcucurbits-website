@@ -4,8 +4,8 @@
 title: UNH Cucurbit Breeding
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 logo: images/logo.svg
-header: images/background.jpg
-footer: images/background.jpg
+header: images/background_top.jpg
+footer: images/background_bottom.jpg
 baseurl: /unhcucurbits-website
 
 # site social media and other links
