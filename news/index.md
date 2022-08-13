@@ -5,7 +5,7 @@ nav:
   tooltip: Research program updates 
 ---
 
-# <i class="fas fa-feather-alt"></i>Blog
+# <i class="fas fa-volume-high"></i>Blog
 
 {% include section.html %}
 
