@@ -7,16 +7,16 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our research group is part of the [Department of Agriculture, Nutrition, and Food Systems](https://colsa.unh.edu/agriculture-nutrition-food-systems), at the University of New Hampshire.The majority of our research is conducted at the [Macfarlane Greenhouse](https://colsa.unh.edu/facility/macfarlane-research-greenhouses) and [Kingman Farm](https://colsa.unh.edu/kingmanFarm).
+
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="christopher.hernandez@unh.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="christopher.hernandez@unh.edu"
   style="button"
 %}
 {%
@@ -52,14 +52,14 @@ Canada
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  caption="Macfarlane Greenhouse"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Department of Metaphor"
+  caption="Kingman Farm"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
