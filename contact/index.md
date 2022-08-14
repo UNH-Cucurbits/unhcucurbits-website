@@ -41,24 +41,17 @@ Our research group is part of the [Department of Agriculture, Nutrition, and Foo
 
 {% include section.html %}
 
-### <i class="fas fa-mail-bulk"></i>Mailing Address
-
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
-{:.center}
-
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/macfarlane.png"
   caption="Macfarlane Greenhouse"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/kingman-farm.jpg"
   caption="Kingman Farm"
 %}
 {% endcapture %}
