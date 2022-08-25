@@ -1,6 +1,6 @@
 ---
 name: Christopher Hernandez 
-image: images/member.jpg
+image: images/chris-hernandez.jpg
 description: Principal Investigator
 role: pi
 inks:

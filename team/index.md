@@ -18,8 +18,6 @@ nav:
 
 {% include section.html background="images/kabocha.jpeg" dark=true%}
 
-{% include section.html %}
-
 ## Join Us 
 
 
