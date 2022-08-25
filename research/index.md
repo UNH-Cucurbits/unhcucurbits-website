@@ -9,3 +9,9 @@ nav:
 
 {% include section.html %}
 
+{%
+  include figure.html
+  image="images/breeding-research-pipeline.png"
+  caption=""
+%}
+
