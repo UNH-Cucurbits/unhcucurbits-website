@@ -16,8 +16,6 @@ nav:
   filters="role: pi"
 %}
 
-{:.center}
-
 {% include section.html background="images/kabocha.jpeg" dark=true%}
 
 {% include section.html %}
