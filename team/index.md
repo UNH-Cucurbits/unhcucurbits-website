@@ -18,7 +18,7 @@ nav:
 
 {% include section.html background="images/kabocha.jpeg" dark=true%}
 
-## Join Us 
+# Join Us 
 {% include section.html%}
 
 {% include section.html%}
