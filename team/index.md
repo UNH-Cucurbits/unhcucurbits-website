@@ -21,6 +21,8 @@ nav:
 ## Join Us 
 {% include section.html%}
 
+{% include section.html%}
+
 We are alwayas looking for motivated students. Feel free to get in contact with us about current and future opportunities.
 
 ### Lab policies
