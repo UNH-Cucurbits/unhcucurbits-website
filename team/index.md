@@ -1,4 +1,4 @@
----
+--
 title: Team
 nav:
   order: 3
@@ -18,20 +18,18 @@ nav:
 
 {% include section.html background="images/kabocha.jpeg" dark=true%}
 
-# Join Us 
-{% include section.html%}
-
+# Join us 
 {% include section.html%}
 
 We are alwayas looking for motivated students. Feel free to get in contact with us about current and future opportunities.
 
-### Lab policies
+#### Lab policies
 
 
-### Graduate students
+#### Graduate students
 
 
-### Postdocs
+#### Postdocs
 
-### Undergraduate
+#### Undergraduate
 
