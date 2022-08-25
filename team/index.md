@@ -18,20 +18,23 @@ nav:
 
 {:.center}
 
-{% include section.html background="images/kabocha.jpg" dark=false%}
+{% include section.html background="images/kabocha.jpeg" dark=false%}
 
 {% include section.html %}
 
-## Funding
+## Join Us 
 
 {:.center}
 
-{%
-  include gallery.html
-  style="square"
+We are alwayas looking for motivated students. Feel free to get in contact with us about current and future opportunities.
 
-  image1="images/nhaes.png"
-  link1="https://colsa.unh.edu/new-hampshire-agricultural-experiment-station"
-  tooltip1="NHAES"
+### Lab policies
 
-%}
+
+### Graduate students
+
+
+### Postdocs
+
+### Undergraduate
+
