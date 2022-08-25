@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our research group is part of the [Department of Agriculture, Nutrition, and Food Systems](https://colsa.unh.edu/agriculture-nutrition-food-systems), at the University of New Hampshire. Research is conducted at the [Macfarlane Greenhouse](https://colsa.unh.edu/facility/macfarlane-research-greenhouses) and [Kingman Farm](https://colsa.unh.edu/kingmanFarm).
+Our research group is part of the [Department of Agriculture, Nutrition, and Food Systems](https://colsa.unh.edu/agriculture-nutrition-food-systems){:target="_blank"}, at the University of New Hampshire. Research is conducted at the [Macfarlane Greenhouse](https://colsa.unh.edu/facility/macfarlane-research-greenhouses) and [Kingman Farm](https://colsa.unh.edu/kingmanFarm).
 
 
 {%
