@@ -7,5 +7,5 @@ nav:
 
 # <i class="fas fa-dna"></i>Research
 
-% include section.html %}
+{% include section.html %}
 
