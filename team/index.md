@@ -18,13 +18,12 @@ nav:
 
 {:.center}
 
-{% include section.html background="images/kabocha.jpeg" dark=false%}
+{% include section.html background="images/kabocha.jpeg" dark=true%}
 
 {% include section.html %}
 
 ## Join Us 
 
-{:.center}
 
 We are alwayas looking for motivated students. Feel free to get in contact with us about current and future opportunities.
 
