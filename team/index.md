@@ -16,6 +16,13 @@ nav:
   filters="role: pi"
 %}
 
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: technician"
+%}
+
 {% include section.html background="images/kabocha.jpeg" dark=true%}
 
 # Join us 
