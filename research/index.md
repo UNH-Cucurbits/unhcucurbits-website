@@ -15,3 +15,5 @@ nav:
   caption=""
 %}
 
+{% include section.html %}
+
