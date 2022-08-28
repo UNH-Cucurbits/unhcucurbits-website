@@ -20,7 +20,7 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: technician"
+  filters="role: tech"
 %}
 
 {% include section.html background="images/kabocha.jpeg" dark=true%}
