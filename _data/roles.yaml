@@ -21,3 +21,6 @@ programmer:
 mascot:
   icon: fas fa-dog
   text: Mascot
+  
+tech:
+  icon: fas fa-leaf
