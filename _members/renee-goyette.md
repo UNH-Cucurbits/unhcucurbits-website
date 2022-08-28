@@ -2,7 +2,7 @@
 name: Renee Goyette 
 image: images/placeholder.svg
 description: Research Technician 
-role: technician 
+role: tech
 links:
   email: renee.goyette@unh.edu 
 ---
