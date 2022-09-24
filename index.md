@@ -7,3 +7,10 @@ title: Home
 Welcome to the UNH Cucurbit Breeding and Genetics Program. Thank you for your interest!
 
 The UNH program conducts breeding efforts in squash, pumpkins, and melons. Our research program seeks to understand the genetics of important stakeholder traits such as marketable yield, disease resistance, and nutritional quality. 
+
+{%
+  include section.html
+  background="images/drone_pumpkins.jpg"
+  dark=false
+  full=true
+%}
