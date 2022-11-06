@@ -18,19 +18,11 @@ An outline of current breeding projects and objectives is provided by crop.
 
 {% include section.html %}
 
-## Pumpkins
+## Pumpkins and Gourds
 
 {% include section.html %}
 
-## Winter Squash
-
-{% include section.html %}
-
-## Summer Squash
-
-{% include section.html %}
-
-## Interspecific Squash
+## Winter and Summer Squash
 
 {% include section.html %}
 
