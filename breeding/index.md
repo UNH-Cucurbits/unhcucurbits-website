@@ -20,6 +20,11 @@ An outline of current breeding projects and objectives is provided by crop.
 
 ## Pumpkins and Gourds
 
+{%
+  include gallery.html
+  image1="images/pumpkin_closeup.jpg"
+%}
+
 {% include section.html %}
 
 ## Winter and Summer Squash
