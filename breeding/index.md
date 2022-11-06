@@ -23,9 +23,11 @@ An outline of current breeding projects and objectives is provided by crop.
 {%
   include gallery.html
   image1="images/pumpkin_closeup.jpg"
-  tooltip1="Experimental pumpkin plots"
-  image2="images/gourds.jpg"
-  tooltip2="Koshare gourds bred by Dr. Brent Loy"
+  tooltip1="Experimental pumpkin plots from above"
+  image2="images/pumpkin_data.jpg" 
+  tooltip2="Taking pumpkin yield data"
+  image3="images/gourds.jpg"
+  tooltip3="Koshare gourds bred by Dr. Brent Loy"
   style="square"
 %}
 
