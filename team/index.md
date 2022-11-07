@@ -23,8 +23,6 @@ nav:
   filters="role: tech"
 %}
 
-{% include section.html background="images/kabocha.jpeg" dark=true%}
-
 # Join us 
 {% include section.html%}
 

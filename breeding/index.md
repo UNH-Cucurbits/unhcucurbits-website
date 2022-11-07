@@ -42,7 +42,22 @@ In addition to appearance, on-going work seeks to integrate a robust disease pac
 
 {% include section.html %}
 
-## Winter and Summer Squash
+## Winter Squash
+
+{%
+  include gallery.html
+  image1="images/kabocha.jpg"
+  tooltip1="An experimental kabocha line"
+  image2="images/curing.jpg" 
+  tooltip2="Squash curing"
+  image3="images/guillotine.jpg"
+  tooltip3="The squash guillotine"
+  style="square"
+%}
+
+{% include section.html %}
+
+## Summer Squash
 
 {% include section.html %}
 
