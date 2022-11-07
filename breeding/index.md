@@ -46,7 +46,7 @@ In addition to appearance, on-going work seeks to integrate a robust disease pac
 
 {%
   include gallery.html
-  image1="images/kabocha.jpg"
+  image1="images/kabocha.jpeg"
   tooltip1="An experimental kabocha line"
   image2="images/curing.jpg" 
   tooltip2="Squash curing"
