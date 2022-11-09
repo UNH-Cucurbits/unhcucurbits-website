@@ -23,8 +23,9 @@ nav:
   filters="role: tech"
 %}
 
+{% include section.html %}
+
 # Join us 
-{% include section.html%}
 
 #### Graduate students
 
