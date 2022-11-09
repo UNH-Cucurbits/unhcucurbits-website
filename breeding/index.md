@@ -22,11 +22,11 @@ An outline of current breeding projects and objectives is provided by crop.
 
 {%
   include gallery.html
-  image1="images/pumpkin_closeup.jpg"
+  image1="images/breeding/pumpkin_closeup.jpg"
   tooltip1="Experimental pumpkin plots from above"
-  image2="images/pumpkin_data.jpg" 
+  image2="images/breeding/pumpkin_data.jpg" 
   tooltip2="Taking pumpkin yield data"
-  image3="images/gourds.jpg"
+  image3="images/breeding/gourds.jpg"
   tooltip3="Koshare gourds bred by Dr. Brent Loy"
   style="square"
 %}
@@ -36,7 +36,7 @@ The rise of agrotourism has lead to a renaissance in ornamental pumpkins and
 gourds. 
 Efforts in ornamental/specialty cucurbit breeding at UNH began in earnest in the mid-1980s. 
 The UNH program has specialized in producing pumpkins with novel colors such as different shades of yellow, white, and tan.
-Breeding has also focused on developing pumpkin with strong, thick, stems ideal for U-pick operations.
+Breeding has also focused on developing pumpkins with strong, thick, stems ideal for U-pick operations.
 
 In addition to appearance, on-going work seeks to integrate a robust disease package in all lines along with other desirable agronomic traits.
 
@@ -46,12 +46,12 @@ In addition to appearance, on-going work seeks to integrate a robust disease pac
 
 {%
   include gallery.html
-  image1="images/kabocha.jpeg"
+  image1="images/breeding/kabocha.jpeg"
   tooltip1="An experimental kabocha line"
-  image2="images/curing.jpg" 
+  image2="images/breeding/curing.jpg" 
   tooltip2="Squash curing"
-  image3="images/guillotine.jpg"
-  tooltip3="The squash guillotine"
+  image3="images/breeding/guillotine.jpg"
+  tooltip3="The squash guillotine!"
   style="square"
 %}
 
@@ -59,6 +59,27 @@ In addition to appearance, on-going work seeks to integrate a robust disease pac
 
 ## Summer Squash
 
+{%
+  include gallery.html
+  image1="images/breeding/placeholder.jpeg"
+  image2="images/breeding/slicpic.jpg" 
+  tooltip2="Squash curing"
+  image3="images/breeding/placeholder.jpg"
+  style="square"
+%}
+
 {% include section.html %}
 
 ## Melons
+
+{%
+  include gallery.html
+  image1="images/breeding/kabocha.jpeg"
+  tooltip1="An experimental kabocha line"
+  image2="images/breeding/curing.jpg" 
+  tooltip2="Squash curing"
+  image3="images/breeding/guillotine.jpg"
+  tooltip3="The squash guillotine"
+  style="square"
+%}
+

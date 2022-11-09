@@ -25,11 +25,9 @@ nav:
 
 {% include section.html %}
 
-# Join us 
-
-#### Graduate students
-
-#### Postdocs
+# Join us! 
 
 #### Undergraduate
+
+#### Graduate students
 
