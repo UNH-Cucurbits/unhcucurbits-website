@@ -9,13 +9,20 @@ nav:
 
 {% include section.html %}
 
-{%
-  include feature.html
+{% include feature.html
   image="images/research/"
   link=""
-  title="Breeding Methods"
-  text="This is a test"
+  title="Breeding methods"
+  text=""
 %}
+
+{% include feature.html
+  image="images/research/"
+  link=""
+  title="Genetic resources"
+  text=""
+%}
+
 
 {% include section.html %}
 
