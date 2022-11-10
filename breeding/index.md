@@ -73,5 +73,4 @@ In addition to appearance, on-going work seeks to integrate a robust disease pac
 {% include section.html %}
 
 ## Melons
-%}
 
