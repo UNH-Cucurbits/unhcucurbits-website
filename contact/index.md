@@ -44,14 +44,14 @@ Our research group is part of the [Department of Agriculture, Nutrition, and Foo
 {% capture col1 %}
 {%
   include figure.html
-  image="images/macfarlane.png"
+  image="images/contact/macfarlane.png"
   caption="Macfarlane Greenhouse"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/kingman-farm.jpg"
+  image="images/contact/kingman-farm.jpg"
   caption="Kingman Farm"
 %}
 {% endcapture %}

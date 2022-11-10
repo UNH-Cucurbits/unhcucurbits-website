@@ -61,25 +61,13 @@ In addition to appearance, on-going work seeks to integrate a robust disease pac
 
 {%
   include gallery.html
-  image1="images/breeding/placeholder.jpeg"
-  image2="images/breeding/slicpic.jpg" 
-  tooltip2="Squash curing"
-  image3="images/breeding/placeholder.jpg"
+  image1="images/breeding/slicpic.jpg" 
+  tooltip1="Glabrous squash Slik Pic"
   style="square"
 %}
 
 {% include section.html %}
 
 ## Melons
-
-{%
-  include gallery.html
-  image1="images/breeding/kabocha.jpeg"
-  tooltip1="An experimental kabocha line"
-  image2="images/breeding/curing.jpg" 
-  tooltip2="Squash curing"
-  image3="images/breeding/guillotine.jpg"
-  tooltip3="The squash guillotine"
-  style="square"
 %}
 
