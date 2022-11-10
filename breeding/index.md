@@ -63,6 +63,10 @@ In addition to appearance, on-going work seeks to integrate a robust disease pac
   include gallery.html
   image1="images/breeding/slicpic.jpg" 
   tooltip1="Glabrous squash Slik Pic"
+  image2="images/breeding/bush.jpg" 
+  tooltip2="Summer squash production"
+  image3="images/breeding/squash_bowl.jpg"
+  tooltip3="Smooth Operator"
   style="square"
 %}
 
