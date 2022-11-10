@@ -1,6 +1,6 @@
 ---
 name: Christopher Hernandez 
-image: images/chris-hernandez.jpg
+image: images/members/chris-hernandez.jpg
 role: pi
 links:
   orcid: 0000-0002-1668-7121
