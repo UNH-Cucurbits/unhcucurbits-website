@@ -55,6 +55,12 @@ In addition to appearance, on-going work seeks to integrate a robust disease pac
   style="square"
 %}
 
+Winter squash are any squash that are eaten at maturity. 
+The breeding program works with winter squash from each of the three major squash species: *Cucurbita pepo*, *C. moschata*, and *C. maxima*.
+*C. pepo* breeding efforts focus on Acorn squash, *C. moschata* on Butternut squash, and *C. maxima* on Kabocha/Buttercup type squash.
+Cultivars developed at UNH are known for their exceptional eating quality in addition to yield and disease resistance. 
+
+
 {% include section.html %}
 
 ## Summer Squash
@@ -70,7 +76,12 @@ In addition to appearance, on-going work seeks to integrate a robust disease pac
   style="square"
 %}
 
+Squash eaten in an immature state are referred as summer squash. 
+The UNH program focuses primarily on *C. pepo* cultivars.
+
+
 {% include section.html %}
 
 ## Melons
+
 
