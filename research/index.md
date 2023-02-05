@@ -31,7 +31,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {%
   include feature.html
-  image="images/research/photo.jpg"
+  image="images/research/diversity.jpg"
   link=""
   title="Genetic Resources"
   flip=true
@@ -45,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/research/photo.jpg"
+  image="images/research/tools.jpg"
   link=""
   title="Tools and Informatics"
   text=text
