@@ -13,7 +13,7 @@ nav:
 Space is a limiting resource for all breeding programs, but especially in breeding cucurbit crops. 
 It takes a lot of room to grow cucurbit crops, thereby limiting breeding population size and, as result, genetic gain.
 Fortunately, genomics-enabled technologies have matured in the last decade.
-Current research in the cucurbit program seeks to evaluate the use of these predictive technologies, as well as refining other breeding methods, for increasing the efficiency of cucurbit breeding. 
+Current research in the cucurbit program seeks to evaluate the use of these predictive technologies, as well as refining other breeding methods, for increasing breeding efficiency. 
 
 {% endcapture %}
 
