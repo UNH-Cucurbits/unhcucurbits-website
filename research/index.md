@@ -17,7 +17,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/research/photo.jpg"
+  image="images/research/breeding.jpg"
   link=""
   title="Breeding Methods"
   text=text
