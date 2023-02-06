@@ -28,7 +28,7 @@ Current research in the cucurbit program seeks to evaluate the use of these pred
 {% capture text %}
 
 The *Cucurbita* genus is home to a wealth of genetic variation.
-Research projects are framed around identifying, evaluating, and elucidating the genetics of important stakeholder traits.
+Research projects are framed around unlocking this variation through identifying, evaluating, and elucidating the genetics of important stakeholder traits.
 Examples of important traits include novel sources of disease resistance, agronomic traits like plant habit, and consumer traits such as nutritional content and flavor.
 Once identified, these traits are moved into elite germplasm and made available through licensing to breeding companies and research collaborators world-wide.
 
