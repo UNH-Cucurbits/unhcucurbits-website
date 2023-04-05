@@ -82,6 +82,3 @@ The UNH program focuses primarily on *C. pepo* cultivars.
 
 {% include section.html %}
 
-## Melons
-
-
