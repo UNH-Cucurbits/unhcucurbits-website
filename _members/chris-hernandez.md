@@ -7,7 +7,7 @@ links:
   email: christopher.hernandez@unh.edu 
 ---
 
-Chris received a BS in Genetics and Agronomy in 2014 from Iowa State University, and a PhD in Plant Breeding from Cornell University.
+Chris received a BS in Genetics and Agronomy from Iowa State University, and a PhD in Plant Breeding from Cornell University.
 His PhD work focused on using genomics to improve fruit quality traits in a winter squash breeding program.
 Chris then spent three years as a postdoctoral researcher in applied quantitative genetics working with the Louisiana State University rice breeding program. 
 
