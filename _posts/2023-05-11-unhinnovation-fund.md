@@ -1,10 +1,8 @@
 ---
-title: UNHI Fund
+title: UNH Cucurbit Program Recieves Inaugural UNHInnovation Fund
 author: Chris Hernandez
 member: chris-hernandez 
 ---
-
-# UNH Cucurbit Program Recieves Inaugural UNHInnovation Fund
 
 The UNH Cucurbit Program is honored to be selected for the newly launched UNHInnovation Fund. 
 
