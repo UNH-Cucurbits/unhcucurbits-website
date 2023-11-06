@@ -16,6 +16,8 @@ His work lead to the release of over 80 varieties of squash, pumpkins, and melon
 Today the cucurbit program continues under the leadership of [Dr. Christopher Hernandez](https://unhcucurbits.org/members/chris-hernandez.html).
 An outline of current breeding projects and objectives is provided by crop.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c9VXb4q2Qhk?si=V4PSddSHhbuHeEvO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 {% include section.html %}
 
 ## Pumpkins and Gourds
