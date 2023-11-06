@@ -44,10 +44,14 @@ Once identified, these traits are moved into elite germplasm and made available 
   text=text
 %}
 
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## Publications
 
-{% endcapture %}
+{% include search-box.html %}
+
+{% include search-info.html %}
+
+{% include list.html data="citations" component="citation" style="rich" %}
+
 
 
 
