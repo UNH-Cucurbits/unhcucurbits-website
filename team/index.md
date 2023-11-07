@@ -22,6 +22,13 @@ nav:
   component="portrait"
   filters="role: tech"
 %}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phd"
+%}
+
 
 {% include section.html %}
 
