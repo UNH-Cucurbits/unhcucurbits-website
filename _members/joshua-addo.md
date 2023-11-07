@@ -1,6 +1,6 @@
 ---
 name: Joshua Addo 
-image: images/members/addo_joshua_1.jpg
+image: images/members/addo-joshua.jpg
 role: phd 
 links:
   email: joshua.addo@unh.edu 
