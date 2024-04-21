@@ -40,4 +40,3 @@ Hand-pollination of squash and pumpkin plants, perform plot maintenance such as 
 
 **Contact: <renee.goyette@unh.edu>**
 
-{% endcapture %}
