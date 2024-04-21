@@ -4,11 +4,18 @@ author: Chris Hernandez
 member: chris-hernandez 
 ---
 
-## Overview
+{% include section.html %}
 
+{% capture text %}
+
+## Overview
 The UNH Cucurbit Breeding Program is the oldest pumpkin, squash, and melon breeding program in the US. Come work outside with us and gain experience in hand pollinating plants and field plot maintenance!
 
 There is flexibility in start date and hours, but in general the work season will begin the week of July 15th through early August. Most of the work will involve hand pollination of plants and associated tasks from 7 AM - 3:30 PM as needed for an estimated 30 h/wk, starting at $15-18/hr (depending on experience).
+
+{% endcapture %}
+
+{% capture text %}
 
 ## Duties
 
@@ -18,6 +25,10 @@ Hand-pollination of squash and pumpkin plants, perform plot maintenance such as 
 
 - Outdoor conditions including work in full sun and light rain
 - Agricultural setting
+
+{% endcapture %}
+
+{% capture text %}
 
 ## Minimum Requirements
 
@@ -39,3 +50,5 @@ Hand-pollination of squash and pumpkin plants, perform plot maintenance such as 
 - Takes initiative
 
 **Contact: <renee.goyette@unh.edu>**
+
+{% endcapture %}
